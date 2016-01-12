@@ -1,7 +1,7 @@
 name: imcalledandy
 favicon: null
 layout_spectrum: 0.28544583544135094
-typography_spectrum: 0.7099498154129833
+typography_spectrum: 0.4907
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9169762444216758
+  brandStrength: 0.9375
   lightness: 0.8385354101192206
-  saturation: 0.7416560859419405
+  saturation: 0.75
   rhythmicContrast: 0.4671624884940684
 purpose: []
